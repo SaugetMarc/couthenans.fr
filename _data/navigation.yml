@@ -1,72 +1,89 @@
-- title: Start
+- title: Couthenans.fr
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: Mairie
+  url: "/mairie/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Horaires"
+    url: "/mairie/horaire/"
+  - title: "Personnels"
+    url: "/mairie/personnels/"
+  - title: "Elus"
+    url: "/mairie/elus/"
+  - title: "Compte-rendus"
+    url: "/mairie/comptes_rendus/"
+  - title: "Urbanisme"
+    url: "/mairie/urbanisme/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Collectivités"
+  url: "/collectivite/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Communeauté de commune"
+    url: "http://www.cc-pays-hericourt.fr/"
+  - title: "Conseil départemental"
+    url: "https://www.haute-saone.fr/"
+  - title: "Conseil général"
+    rel: "https://www.bourgognefranchecomte.fr/"
+  
+    
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Vivre à Couthenans"
+  url: "/couthenans/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Ecole"
+    url: "/couthenans/ecole/"
+  - title: "Périscolaire"
+    url: "/couthenans/peri/"
+  - title: "Assitance maternelle"
+    url: "/couthenans/assistantesmater/"
+  - title: "Nouveaux arrivants"
+    url: "/couthenans/nouveauxarrivants/"
+  - title: "Environnement"
+    url: "/couthenans/environnement/"
+  - title: "Associations"
+    url: "/couthenans/1901/"
+  - title: "Commerces & entreprises"
+    url: "/couthenans/commerce/"
+  - title: "CCAS"
+    url: "/couthenans/ccas/"
+  - title: "Bibliothèques"
+    url: "/couthenans/biblio/"
+  - title: "Cimetières"
+    url: "/couthenans/cimetiere/"
+  - title: "Son histoire"
+    url: "/couthenans/histoire/"
 
-- title: Blog
+- title: Santé et sécurité
+  url: "/sante_securite/"
+  side: left
+  dropdown:
+  - title: "Plan d'évacuation"
+    url: "/securite/plan_evacuation/"
+  - title: "Numéros d'urgence"
+    url: "/securite/numero"
+    dropdown:
+  - title: "Covid"
+    url: "/securite/covid/"
+  - title: "Déclarer une personne vulnérable"
+    url: "/securite/pers_vulnerable"
+
+- title: Liens utiles
+  url: "/liens_utiles/"
+  side: left
+  
+
+- title: Actualités
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Les actualités passées"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Recherche"
   url: "/search/"
   side: right
 
