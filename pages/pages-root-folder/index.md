@@ -7,16 +7,18 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+
 widget1:
   title: "Les horaires d'ouvertures"
-  url: './pages/'
+  url: '/mairie/'
   image: 302px-Couthenans_Mairie.jpg
   text: 'Informations sur les horaires de permanence de la marie.'
+
 widget2:
   title: "La vie associative de Couthenans"
-  url: './couthenans/1901/'
-  image: 1901.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  url: '/couthenans/1901/'
+  image: 1901.png
+  text: "Couthenans est riche d'une activité associative variées, retrouvez ici l'ensemble des associations de notre village."
   
 widget3:
   title: "Notre école"
@@ -35,7 +37,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/marcSauget
-  text: Vous souhaitez être au courant des nouveautés de Couthenans en avant première !›
+  text: 'Vous souhaitez être au courant des nouveautés de Couthenans en avant première !'
   style: alert
 permalink: /index.html
 #

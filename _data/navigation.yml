@@ -7,9 +7,9 @@
   side: left
   dropdown:
   - title: "Horaires"
-    url: "/mairie/horaire/"
+    url: "/mairie/"
   - title: "Personnels"
-    url: "/mairie/personnels/"
+    url: "/mairie/personnels"
   - title: "Elus"
     url: "/mairie/elus/"
   - title: "Compte-rendus"
@@ -18,10 +18,10 @@
     url: "/mairie/urbanisme/"
 
 - title: "Collectivités"
-  url: "/collectivite/"
+
   side: left
   dropdown:
-  - title: "Communeauté de commune"
+  - title: "Communauté de commune"
     url: "http://www.cc-pays-hericourt.fr/"
   - title: "Conseil départemental"
     url: "https://www.haute-saone.fr/"
@@ -35,10 +35,10 @@
   side: left
   dropdown:
   - title: "Ecole"
-    url: "/couthenans/ecole/"
+    url: "/couthenans/ecole"
   - title: "Périscolaire"
     url: "/couthenans/peri/"
-  - title: "Assitance maternelle"
+  - title: "Assistantes maternelles"
     url: "/couthenans/assistantesmater/"
   - title: "Nouveaux arrivants"
     url: "/couthenans/nouveauxarrivants/"
@@ -50,9 +50,9 @@
     url: "/couthenans/commerce/"
   - title: "CCAS"
     url: "/couthenans/ccas/"
-  - title: "Bibliothèques"
+  - title: "Bibliothèque"
     url: "/couthenans/biblio/"
-  - title: "Cimetières"
+  - title: "Cimetière"
     url: "/couthenans/cimetiere/"
   - title: "Son histoire"
     url: "/couthenans/histoire/"
