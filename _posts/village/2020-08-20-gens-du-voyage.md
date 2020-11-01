@@ -14,7 +14,7 @@ tags:
 
 La commune a reçu une demande d'accueil des gens du voyage. Une convention a été signée avec la commune. 
 
-Ils s'engage à restituer le terrain dans un état irréprochable. En contre-partie, la commune leur fournit l'eau et l'électricité. 
+Ils s'engagent à restituer le terrain dans un état irréprochable et à donner une compensation financière (500 €). En contre-partie, la commune leur fournit l'eau et l'électricité. 
 
 Bienvenue à eux dans notre village.
 
