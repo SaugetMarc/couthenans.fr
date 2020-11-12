@@ -9,6 +9,8 @@ tags:
     - blog
     - content
     - post
+header:
+    image_fullwidth: "header_unsplash_12.jpg"
 ---
 <!--more-->
 

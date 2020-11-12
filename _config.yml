@@ -17,7 +17,7 @@ slogan: 'Un village en transition'
 description: "Lieu d'information pour la commune de Couthenans, vous y trouverez les actualités, des liens  et des informations du qutidien"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Mise en place par <a href="https://marcsauget.fr"> Marc Sauget</a> basé sur les travaux de   <a href="http://phlow.de/">Phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -193,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: marcSauget
+   
 
 
 #        ____  _

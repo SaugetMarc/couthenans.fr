@@ -1,12 +1,16 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Restons en contact"
+meta_title: "Contacter votre commune"
+subheadline: "Contacter votre commune"
+teaser: "Nous sommes à votre écoute !!!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Si vous souhaitez prendre contact avec le conseil municipal, plusieurs moyens s'offrent à vous : 
+- Par [mail][1]
+- Par notre page [facebook][2]
+- En prenant rendez vous directement en mairie
 
 
- [1]: http://www.wufoo.com/
+ [1]: contact@couthenans.fr
+ [2]: https://www.facebook.com/laVieACouthenans

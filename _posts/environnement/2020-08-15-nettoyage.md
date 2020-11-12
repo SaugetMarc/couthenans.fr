@@ -12,10 +12,10 @@ tags:
     - content
     - post
     - post format
+header:
+    image_fullwidth: "header_drop.jpg"
 image:
     title: 20200815_nettoyage.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
 author: Marc Sauget
 ---
 En l'absence du personnel communal, une partie du conseil réalise un nettoyage de Couthenans aidé par les anes d'Hélène.

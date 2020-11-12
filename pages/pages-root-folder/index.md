@@ -22,7 +22,7 @@ widget2:
   
 widget3:
   title: "Notre école"
-  url: '/couthenans/ecole/'
+  url: '/couthenans/ecole'
   image: ecole.png
   text: 'Notre école : ses classes, son site, ses services associés et ses horaires.'
 #
