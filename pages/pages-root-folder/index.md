@@ -16,7 +16,7 @@ widget1:
 
 widget2:
   title: "La vie associative de Couthenans"
-  url: '/couthenans/1901/'
+  url: '/couthenans/1901'
   image: 1901.png
   text: "Couthenans est riche d'une activité associative variées, retrouvez ici l'ensemble des associations de notre village."
   
