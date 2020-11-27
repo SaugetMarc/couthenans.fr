@@ -8,8 +8,14 @@
   dropdown:
   - title: "Horaires"
     url: "/mairie/"
+  - title: "Personnels"
+    url: "/mairie/personnels"
   - title: "Elus"
     url: "/mairie/elus/"
+  - title: "Compte-rendus"
+    url: "/mairie/comptes_rendus/"
+  - title: "Urbanisme"
+    url: "/mairie/urbanisme/"
 
 - title: "Collectivités"
 
@@ -23,36 +29,63 @@
     rel: "https://www.bourgognefranchecomte.fr/"
   
     
+
 - title: "Vivre à Couthenans"
   url: "/couthenans/"
   side: left
   dropdown:
   - title: "Ecole"
     url: "/couthenans/ecole"
+  - title: "Périscolaire"
+    url: "/couthenans/peri/"
+  - title: "Assistantes maternelles"
+    url: "/couthenans/assistantesmater/"
+  - title: "Nouveaux arrivants"
+    url: "/couthenans/nouveauxarrivants/"
+  - title: "Environnement"
+    url: "/couthenans/environnement/"
   - title: "Associations"
-    url: "/couthenans/1901"
+    url: "/couthenans/1901/"
   - title: "Commerces & entreprises"
     url: "/couthenans/commerce"
+  - title: "CCAS"
+    url: "/couthenans/ccas/"
+  - title: "Bibliothèque"
+    url: "/couthenans/biblio/"
+  - title: "Cimetière"
+    url: "/couthenans/cimetiere/"
+  - title: "Son histoire"
+    url: "/couthenans/histoire/"
 
 - title: Santé et sécurité
   url: "/sante_securite/"
   side: left
   dropdown:
+  - title: "Plan d'évacuation"
+    url: "/securite/plan_evacuation/"
   - title: "Numéros d'urgence"
     url: "/securite/numero"
     dropdown:
   - title: "Covid"
     url: "/securite/covid/"
-  
+  - title: "Déclarer une personne vulnérable"
+    url: "/securite/pers_vulnerable"
+
 - title: Liens utiles
   url: "/liens_utiles/"
   side: left
+  
 
 - title: Actualités
   url: "/blog/"
   side: left
-  
+  dropdown:
+  - title: "Les actualités passées"
+    url: "/blog/archive/"
 
+- title: "Recherche"
+  url: "/search/"
+  side: right
 
 - title: "Contact"
   url: "/contact/"
