@@ -86,6 +86,11 @@ Lieu : 22 rue de Chevret à Couthenans
 Activité : snack ambulant  
 page facebook : [cliquez ici](https://www.facebook.com/frederic.hurez.10)  
 Contact : 06 35 96 73 65  
-Lieu : les mardis à Couthenans, place de la mairie, de 17h30 à 22h00  
+Lieu : les mardis à Couthenans, place de la mairie, de 17h30 à 22h00
+
+### Gite : Le coq chantant
+Activité : Gite  
+Contact : [cliquez ici](https://lecoqchantant.goliday.com/fr)  
+Lieu : 23 grande rue à Couthenans
 
  

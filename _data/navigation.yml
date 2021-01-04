@@ -33,6 +33,8 @@
     url: "/couthenans/1901"
   - title: "Commerces & entreprises"
     url: "/couthenans/commerce"
+  - title: "Son histoire"
+    url: "/couthenans/histoire"
 
 - title: Santé et sécurité
   url: "/sante_securite/"

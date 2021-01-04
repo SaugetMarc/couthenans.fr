@@ -41,5 +41,7 @@ Suppléantes : Mmes , et
 ### Association des parents d'élèves :
 ASSPEC : apeasspec@gmail.com
 
+<!-- 
 ### Compte-rendus des conseils d'école :
 conseil du 30 juin 2020
+-->

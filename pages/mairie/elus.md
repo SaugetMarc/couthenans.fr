@@ -145,7 +145,7 @@ Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECEST
 
 ###  La commission Environnement, développement durable et transition.
 **Ses compétences :** 	Gestion des questions relatives aux espaces verts communaux et à la forêt -fleurissement - Préservation et valorisation du patrimoine - Réflexion sur la transition - Elle recouvre les questions environnementales et contribue à la qualité de la ville.  
-**Ses membres :**	Jean-Pierre JEANROY Hélène LERMY Jean-Pierre, Marielle SAUGET, Maryline LECESTRE Maryline Mathieu FIGINI, Agnès MICHELOT, Patrick KACZMAREK.  
+**Ses membres :**	Jean-Pierre JEANROY, Hélène LERMY, Marielle et Marc SAUGET, Maryline LECESTRE, Mathieu FIGINI, Agnès MICHELOT, Patrick KACZMAREK.
 
 **Idées de projets :**	
 - Plan de Gestion Ecologique des espaces publics & Plan de gestion du patrimoine arboré 
@@ -167,8 +167,13 @@ Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECEST
 **Ses membres :**		Jean-Pierre JEANROY, Marielle SAUGET, Maryline LECESTRE, Adeline TEIXEIRA.  
 
 **Conseil d’école :** 	Jean-Pierre JEANROY, Marielle SAUGET.  
-**Ses compétences :** 	Valorisation du patrimoine historique et des traditions locales. Commémorations, gestion des archives…  
 
+
+### La commission Histoire et traditions.
+
+**Ses compétences :** 	Valorisation du patrimoine historique et des traditions locales. Commémorations, gestion des archives…  
+**Ses membres :**	Jean-Pierre JEANROY, Mathieu FIGINI, Adeline TEIXEIRA. Patrick KACZMAREK, Hélène LERMY.  
+**Idées de projets :** 	Compiler l’historique et valoriser.
 
 
 ### Syndicat SIED 70 (Syndicat Intercommunal d’Energie du Département).
