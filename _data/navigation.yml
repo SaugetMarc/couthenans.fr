@@ -10,6 +10,8 @@
     url: "/mairie/"
   - title: "Elus"
     url: "/mairie/elus"
+  - title: "Compte-rendus"
+    url: "/mairie/compte_rendu"
 
 - title: "Collectivités"
 
@@ -29,6 +31,8 @@
   dropdown:
   - title: "Ecole"
     url: "/couthenans/ecole"
+  - title: "Assistantes maternelles"
+    url: "/couthenans/assistantes_maternelle"
   - title: "Associations"
     url: "/couthenans/1901"
   - title: "Commerces & entreprises"
@@ -59,3 +63,6 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+  dropdown:
+  - title: "Mentions légales"
+    url: "/mentions_legales"

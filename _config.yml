@@ -25,7 +25,7 @@ author: Marc Sauget
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://couthenans.fr'
+url: 'https://couthenans.fr'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://couthenans.fr/images/'
+urlimg: 'https://couthenans.fr/images/'
 
 
 # Logo size is 600x80 pixels
@@ -106,7 +106,7 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
+      path: ''          # an empty string here means all files in the project
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages

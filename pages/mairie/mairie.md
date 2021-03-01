@@ -9,9 +9,6 @@ permalink: "/mairie/"
 
 En fonction de la période de l'année, les horaires de la mairie peuvent évoluer. 
 
-### Vacances de Noël 2020 :
-
-Le secrétariat de la mairie sera ouvert uniquement les lundi 21 et 28 décembre de 14h à 17h.
 
 ### Hors période de vacances, les horaires sont les suivantes : 
 
