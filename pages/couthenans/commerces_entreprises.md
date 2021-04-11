@@ -28,9 +28,13 @@ Lieu : Vers le parking routier après le cimetière.
 
 ### Chèvrerie du Moulin : 
 Activité : Élevage d'ovins et de caprins  
-page facebook : [cliquez ici](https://www.facebook.com/La-chevrerie-du-moulin-100318408255463/)  
-Contact :  
-Lieu : 7 CHE DU MOULIN à Couthenans
+{:refdef: style="text-align: center;"}
+![Chèvrerie du Moulin](/assets/img/chevrerie.jpg){:class="img-responsive"}
+{: refdef}
+
+page facebook : [cliquez ici](https://www.facebook.com/La-Ch%C3%A8vrerie-du-Moulin-101736728558045/)  
+Contact : 07 67 63 40 89  
+Lieu : 7 CHE DU MOULIN, à Couthenans
 
 ### Garage Bourquin Thierry :
 Activité : Carrosserie, peinture automobile  
