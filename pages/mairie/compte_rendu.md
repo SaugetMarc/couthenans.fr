@@ -14,6 +14,16 @@ header:
 
 # Conseils municipaux : 
 
+## Conseil du 09/04/2021
+
+Ordre du jour : 
+- Budget 2021
+- Annulation de régies recettes et d’avances « tennis » inactives  
+- Renouvellement du contrat GRDF   
+- Questions diverses 
+
+ [Compte-rendu]({{ site.url }}/assets/pdf/CR_reunion_20210409.pdf)
+
 ## Conseil du 29/01/2021 : 
 
 Ordre du jour : 
