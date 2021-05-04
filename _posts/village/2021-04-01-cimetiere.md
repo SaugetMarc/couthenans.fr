@@ -22,14 +22,14 @@ pour notre cimetière.
 
 ![Vers une gestion différenciée](/assets/img/202104/cimetiere.png){:class="img-responsive"}
 
-Les espaces vont progressivement s’enherbés ou être végétalisés.  
+Les espaces vont progressivement s’enherber ou être végétalisés.  
 
 Pour en savoir plus rendez-au le 4 juillet au cimetière à 10h pour une présentation
 du projet et sans plus tarder vous pouvez consulter le lien ci-dessous pour
 connaître les détails.
 
 
- [Présentation compplète du projet]({{ site.url }}/assets/pdf/PGD-Cimetiere-1.pdf)
+ [Présentation complète du projet]({{ site.url }}/assets/pdf/PGD-Cimetiere-1.pdf)
 
 
 

@@ -49,6 +49,8 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+   # - jekyll-feed
+   # - jekyll-google-calendar
 
 
 #       ____              _             __  _
@@ -271,3 +273,14 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+
+
+gcalendar:
+  key_file: _includes/apicalendar-310914-c5bf421c6946.json
+  calendars:
+    - id:  22ad9t00fc2dpqr1op7r3ck29o@group.calendar.google.com     # eg. blahblahblah12345678912345@group.calendar.google.com
+      directory: events         # the directory in which to place geneated events
+      layout: gc_event          # the Jekyll layout template to use for events
+      date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
+      look_ahead: 365           # 1 year in days

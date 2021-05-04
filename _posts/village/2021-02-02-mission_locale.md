@@ -13,7 +13,7 @@ header:
     image_fullwidth: "header_unsplash_12.jpg"
 ---
 
-La Mission Locale accueille, informe et accompagne gratuitement tout type de public sur l’emploi et/ou sur la formation : demandeurs d’emploi, salariés, intérimaires, scolaires, étudiants…
+La Mission Locale accueille, informe et accompagne gratuitement tout type de public sur l’emploi et/ou sur la formation : demandeurs d’emploi, salariés, intérimaires, étudiants…
 
 ![Mission locale Héricourt - Villersexel](/assets/img/202102/logo_ML_hericourt.png){:class="img-responsive"}
 

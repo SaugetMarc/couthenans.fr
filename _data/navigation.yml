@@ -12,6 +12,8 @@
     url: "/mairie/elus"
   - title: "Compte-rendus"
     url: "/mairie/compte_rendu"
+  - title: "Notre calendrier"
+    url: "/mairie/calendrier"
 
 - title: "Collectivités"
 
