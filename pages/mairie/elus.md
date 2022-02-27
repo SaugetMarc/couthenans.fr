@@ -18,7 +18,7 @@ header:
 
 **1er adjoint :** 	David TRIPOGNEY – Administration et personnel, urbanisme, CCPH (suppléant), SIED 70.  
 **2ème adjoint :** 	Yves LISCHKA – Finances, assainissement, syndicat des eaux (SIAEP).  
-**3ème adjoint :**	Marielle SAUGET – Conseil d’école, cimetière, suivi des bâtiments communaux.
+**3ème adjoint :**	Anne-Marie MUNINGER – Conseil d’école, cimetière, suivi des bâtiments communaux.
 
 
 ## Les conseillers
@@ -28,13 +28,16 @@ Jacques DELUNSCH, 67 ans, retraité
 Mathieu FIGINI, 38 ans, fraiseur  
 Patrick KACZMAREK, 41 ans, technicien montage maintenance  
 Maryline LECESTRE, 34 ans, équipière restauration  
-Hélène LERMY, 34 ans, ingénieure paysagiste  
 Mario VOLANTI, 44 ans, technicien études  
 Agnès MICHELOT, 51 ans, ingénieure  
 Adeline TEIXEIRA, 37 ans, cadre en reconversion  
-Anne-Marie MUNINGER, 70 ans, retraitée  
+Marielle SAUGET, 37 ans, professeure des écoles  
 Marc SAUGET, 39 ans, chef de projet informatique
 
+### Démissionnaire
+
+Hélène LERMY, 34 ans, ingénieure paysagiste, démissionnaire fin juin 2021  
+Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
 
 
 
@@ -80,7 +83,7 @@ Marc SAUGET, 39 ans, chef de projet informatique
 
 ### La commission Urbanisme et PLUI.
 **Ses compétences :** 	Gestion des demandes d’autorisation d’urbanisme - Elaboration et coordination des éventuelles révisions du PLU. Chargée des affaires en matière d'urbanisme, cette commission assure la gestion de l’habitat, ainsi que l’ensemble du foncier et du patrimoine.  
-**Ses membres :** 	Jean-Pierre JEANROY, David TRIPOGNEY, Jacques DELUNSCH, Patrick KACZMAREK, Hélène LERMY.
+**Ses membres :** 	Jean-Pierre JEANROY, David TRIPOGNEY, Jacques DELUNSCH, Patrick KACZMAREK.
 
 ### La commission Voirie, travaux et sécurité, assainissement.
 **Ses compétences :** 	Programmation des travaux d’entretien des routes communales - Pré-instruction des demandes déposées et liées à la voirie communale (Déclarations d’Intention de Commencement de Travaux - DICT), modification de la circulation suite à une demande de raccordement, …) - Réflexion et programmation des mesures de sécurité sur le territoire du village (sécurité routière, biens dégradés présentant un danger pour les personnes et autres biens, …) - Numérotation et dénomination des voies…  
@@ -96,7 +99,7 @@ Marc SAUGET, 39 ans, chef de projet informatique
 
 ### Commission Bâtiments.
 **Ses compétences :** 	Cette commission est chargée des questions relatives à l'entretien des bâtiments publics.  
-**Ses membres :** 	Jean-Pierre JEANROY, Marielle SAUGET, Mario VOLANTI, Patrick KACZMAREK.  
+**Ses membres :** 	Jean-Pierre JEANROY, Mario VOLANTI, Patrick KACZMAREK.  
 
 **Idées de projets :**	
 - Mur du temple (rénovation)
@@ -106,7 +109,7 @@ Marc SAUGET, 39 ans, chef de projet informatique
 
 ### La commission Action sociale (CCAS jusqu’en 2021).
 **Ses compétences :** 	Définition de la politique sociale mise en œuvre par le CCAS, notamment dans la recherche et dans la mise en place d’actions spécifiques concernant l’aide et le soutien aux personnes en difficulté – Gestion des actions en faveur des aînés – Réflexion et mise en œuvre d’actions pour la jeunesse et la petite enfance.  
-**Ses membres :** 	Jean-Pierre JEANROY Maryline LECESTRE, Marielle SAUGET, Yves LISCHKA, Anne-Marie MUNINGER, Nelly WIDMER, Adeline TEIXEIRA, Mathieu FIGINI, Patrick KACZMAREK.  
+**Ses membres :** 	Jean-Pierre JEANROY, Maryline LECESTRE, Marielle SAUGET, Yves LISCHKA, Anne-Marie MUNINGER, Nelly WIDMER, Adeline TEIXEIRA, Mathieu FIGINI, Patrick KACZMAREK.  
 **Membres extérieurs :** 	Thierry SPITERI, Maryse STACHEL, Marie-Christine SCHEIBEL, Chantal NICOLAS, Sylvette REBERT.  
 
 **Idées de projets :**	
@@ -145,7 +148,7 @@ Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECEST
 
 ###  La commission Environnement, développement durable et transition.
 **Ses compétences :** 	Gestion des questions relatives aux espaces verts communaux et à la forêt -fleurissement - Préservation et valorisation du patrimoine - Réflexion sur la transition - Elle recouvre les questions environnementales et contribue à la qualité de la ville.  
-**Ses membres :**	Jean-Pierre JEANROY, Hélène LERMY, Marielle et Marc SAUGET, Maryline LECESTRE, Mathieu FIGINI, Agnès MICHELOT, Patrick KACZMAREK.
+**Ses membres :**	Jean-Pierre JEANROY, Marielle et Marc SAUGET, Maryline LECESTRE, Mathieu FIGINI, Agnès MICHELOT, Patrick KACZMAREK.
 
 **Idées de projets :**	
 - Plan de Gestion Ecologique des espaces publics & Plan de gestion du patrimoine arboré 
@@ -157,8 +160,7 @@ Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECEST
 
 ### Délégation Cimetière.
 **Ses compétences :** 	Elle est chargée de la gestion du cimetière.  
-**Titulaire :** 		Marielle SAUGET.  
-**Suppléant :** 		Anne-Marie MUNINGER.  
+**Titulaire :** 		Anne-Marie MUNINGER.  
 **Idées de projets :**	 Mur du cimetière – Ossuaire.  
 
 
@@ -172,7 +174,7 @@ Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECEST
 ### La commission Histoire et traditions.
 
 **Ses compétences :** 	Valorisation du patrimoine historique et des traditions locales. Commémorations, gestion des archives…  
-**Ses membres :**	Jean-Pierre JEANROY, Mathieu FIGINI, Adeline TEIXEIRA. Patrick KACZMAREK, Hélène LERMY.  
+**Ses membres :**	Jean-Pierre JEANROY, Mathieu FIGINI, Adeline TEIXEIRA. Patrick KACZMAREK.  
 **Idées de projets :** 	Compiler l’historique et valoriser.
 
 
@@ -185,7 +187,7 @@ Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECEST
 **Ses membres :** Jean-Pierre JEANROY, David TRIPOGNEY.
 
 ### La commission Forêt
-**Ses membres :** Jean-Pierre JEANROY, Adeline TEIXEIRA, Hélène LERMY, Marc SAUGET.
+**Ses membres :** Jean-Pierre JEANROY, Adeline TEIXEIRA, Marc SAUGET.
 
 
 

@@ -14,6 +14,9 @@
     url: "/mairie/compte_rendu"
   - title: "Notre calendrier"
     url: "/mairie/calendrier"
+  - title: "Panneau pocket" 
+    url: "/mairie/pocket"
+
 
 - title: "Collectivités"
 

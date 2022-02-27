@@ -14,6 +14,42 @@ header:
 
 # Conseils municipaux : 
 
+
+## Conseil du 26/11/2021
+
+Ordre du jour :
+  - Election du 3ème adjoint
+  - Déneigement
+  - Vente des tables de la salle des fêtes
+  - Budget – Décision modificative
+
+ [Compte-rendu]({{ site.url }}/assets/pdf/CR_reunion_20211126.pdf)
+
+## Conseil du 17/09/2021
+
+Ordre du jour : 
+- Motion ONF
+- Etat assiettes des coupes ONF
+- Rapport de la CLECT
+- Attribution de la compensation
+- Créance éteinte de M Grandmougin
+- convention assainissement
+- ...
+
+ [Compte-rendu]({{ site.url }}/assets/pdf/CR_reunion_20210917.pdf)
+
+## Conseil du 04/06/2021
+
+Ordre du jour : 
+- Subvention des associations
+- Décisions modificatives
+- Tarifications cimetières
+- Archivage
+- Préparation des élection départementales et régionales
+- Questions diverses
+
+ [Compte-rendu]({{ site.url }}/assets/pdf/CR_reunion_20210604.pdf)
+
 ## Conseil du 09/04/2021
 
 Ordre du jour : 

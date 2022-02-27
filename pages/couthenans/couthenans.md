@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Couthenans"
-subheadline: "Le plus petit village de haute-saone"
+subheadline: "Parmis les plus petits villages de haute-saone"
 sitemap: true
 permalink: "/couthenans/"
 header:
