@@ -14,6 +14,19 @@ header:
 
 # Conseils municipaux : 
 
+## Conseil du 21/01/2022
+
+Ordre du jour :
+  - Pacte Financier et Fiscal de Solidarité (PFFS) 2021-2027  
+  - Rapport de la Commission Locale d’Évaluation des Charges Transférées (CLECT) 2016-2020
+  - Convention CAUE  
+  - Rapport du syndicat des eaux
+  - Aide à entreprise
+  - Travaux forestiers
+  - Questions diverses ...
+
+ [Compte-rendu]({{ site.url }}/assets/pdf/CR_reunion_20220121.pdf)
+
 
 ## Conseil du 26/11/2021
 
