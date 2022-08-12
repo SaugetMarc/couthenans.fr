@@ -28,7 +28,7 @@ Jacques DELUNSCH, 67 ans, retraité
 Mathieu FIGINI, 38 ans, fraiseur  
 Patrick KACZMAREK, 41 ans, technicien montage maintenance  
 Maryline LECESTRE, 34 ans, équipière restauration  
-Mario VOLANTI, 44 ans, technicien études  
+
 Agnès MICHELOT, 51 ans, ingénieure  
 Adeline TEIXEIRA, 37 ans, cadre en reconversion  
 Marielle SAUGET, 37 ans, professeure des écoles  
@@ -38,6 +38,7 @@ Marc SAUGET, 39 ans, chef de projet informatique
 
 Hélène LERMY, 34 ans, ingénieure paysagiste, démissionnaire fin juin 2021  
 Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
+Mario VOLANTI, 44 ans, démissionnaire début juillet 2022
 
 
 
@@ -55,8 +56,8 @@ Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
 ### Commission Communale des Impôts Directs – CCID.
 
 **Ses compétences :** 	Chaque année, cette commission constate les changements intervenus depuis l'exercice précédent pour faire un état des bases de chaque foyer ou entreprises pour le calcul de la fiscalité locale. Elle est effectuée chaque année par l’inspecteur des impôts compétent avec le concours du maire et les membres de la CCID désignés par le Directeur départemental des Finances Publiques. (1 réunion par an).  
-**Ses membres :**	6 titulaires : Mmes Jocelyne ROUSSELOT, Anne-Marie MUNINGER, Marielle SAUGET, MM. Marie-André RIVIERE, David TRIPOGNEY, Yves LISCHKA.  
-**6 suppléants :** Mmes Maryline LECESTRE, Agnès MICHELOT, Nelly WIDMER,  MM. Jacques DELUNSCH, Mathieu FIGINI, Patrick KACZMAREK.
+**Ses membres :**	6 titulaires : Mmes Jocelyne ROUSSELOT, Anne-Marie MUNINGER, Marielle SAUGET, Marie-André RIVIERE, David TRIPOGNEY, Yves LISCHKA.  
+**6 suppléants :** Maryline LECESTRE, Agnès MICHELOT, Nelly WIDMER, Jacques DELUNSCH, Mathieu FIGINI, Patrick KACZMAREK.
 
 ### Commission Intercommunale des Impôts Directs – CIID.
 **Ses compétences :** 	1 réunion par an à HERICOURT. La commission intercommunale se substitue aux commissions communales des impôts directs (CCID) de chaque commune membre, en ce qui concerne les locaux commerciaux, les biens divers et les établissements industriels.   
@@ -66,7 +67,7 @@ Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
 
 ### Commission des finances.
 **Ses compétences :** 	Préparation et élaboration des documents financiers de la commune (Budgets primitifs, décisions modificatives, comptes administratifs) – Examen des demandes de subventions – Gestion de la dette et des emprunts.  
-**Ses membres :** 		Jean-Pierre JEANROY, David TRIPOGNEY, Yves LISCHKA, Mario VOLANTI.  
+**Ses membres :** 		Jean-Pierre JEANROY, David TRIPOGNEY, Yves LISCHKA.  
 
 **Idées de projets :**	Budget participatif et «jugement prioritaire».
 
@@ -99,7 +100,7 @@ Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
 
 ### Commission Bâtiments.
 **Ses compétences :** 	Cette commission est chargée des questions relatives à l'entretien des bâtiments publics.  
-**Ses membres :** 	Jean-Pierre JEANROY, Mario VOLANTI, Patrick KACZMAREK.  
+**Ses membres :** 	Jean-Pierre JEANROY, Patrick KACZMAREK.  
 
 **Idées de projets :**	
 - Mur du temple (rénovation)
@@ -121,7 +122,6 @@ Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
 ### La commission Information & Communication.
 **Ses compétences :** 	Élaboration du COUTHENANS Infos - Gestion du site de la mairie - Organisation de rencontres citoyennes - Contact avec la presse - Réalisation et suivi compte Facebook - Panneaux d’information - Gestion du SIG  
 **Ses membres :** 	Jean-Pierre JEANROY, Maryline LECESTRE, Marielle SAUGET, Marc SAUGET, David TRIPOGNEY, Yves LISCHKA.  
-Gestion du panneau lumineux : Jean-Pierre JEANROY, Marc SAUGET, Maryline LECESTRE.  
 
 **Idées de projets :**	
 - Création compte Facebook, site internet, plan de communication 
