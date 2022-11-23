@@ -37,7 +37,7 @@ Marc SAUGET, 39 ans, chef de projet informatique
 ### Démissionnaire
 
 Hélène LERMY, 34 ans, ingénieure paysagiste, démissionnaire fin juin 2021  
-Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021
+Marielle SAUGET, démissionnaire de son poste d'adjointe en novembre 2021  
 Mario VOLANTI, 44 ans, démissionnaire début juillet 2022
 
 

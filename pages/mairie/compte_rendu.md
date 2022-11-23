@@ -10,14 +10,49 @@ header:
 
 
 
-
-
 # Conseils municipaux : 
+
+## Conseil du 28/10/2022
+- Mise à jour du plan communal de sauvegarde
+- Reversement de la taxe d’aménagement communal à la CCPH
+- Motion sur les finances locales
+- Réglementation des questions diverses
+- Vente des anciennes tables de l’école (proposition 10€/pièce)
+- Subvention pour l’ASL (Association Sport & Loisirs) 500€
+
+[Compte-rendu]({{ site.url }}/assets/pdf/CR_conseil_municipal_28_10_2022.pdf)
+
+
+## Conseil du 07/10/2022
+- ONF État d’assiette 2023
+- Déneigement (rajouté en préambule du conseil municipal)
+- Subventions aux associations
+- Présentation d’un projet de maison d’assistante maternelle
+- Adoption de la nomenclature budgtéraire et comptable M57 simplifiée :
+- Présentation du rapport d’activité du SIED70
+- Modification du texte de changement des tarifs de la salle.
+- Rapport d’activité du SIAEP (Syndicat des Eaux)
+
+[Compte-rendu]({{ site.url }}/assets/pdf/CR_conseil_municipal_07_10_2022.pdf)
+
+
+
+## Conseil du 24/06/2022
+  - Document unique
+  - Prévention et accompagnement dans l’emploi
+  - Réforme de la publicité des actes
+  - Modification des statuts du SIED
+  - Décisions modificatives du budget
+  - Motion de soutien à la formation de secrétaire de mairie
+  - Tarifs de la salle
+
+   [Compte-rendu]({{ site.url }}/assets/pdf/CR_reunion_20220624.pdf)
+
 
 ## Conseil du 21/01/2022
 
 Ordre du jour :
-  - Pacte Financier et Fiscal de Solidarité (PFFS) 2021-2027  
+  - Convention RASED
   - Rapport de la Commission Locale d’Évaluation des Charges Transférées (CLECT) 2016-2020
   - Convention CAUE  
   - Rapport du syndicat des eaux
