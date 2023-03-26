@@ -6,3 +6,4 @@ Lancement du build :
 
 bundle exec jekyll build 
 
+g

@@ -12,6 +12,24 @@ header:
 
 # Conseils municipaux : 
 
+## Conseil du 24/02/2023
+- Délibération reversement taxe d’aménagement à la CCPH
+- Délibération pour le calcul de la longueur de la voie publique.
+- Délibération renouvellement de mise à disposition de personnel contractuel par le service intérim du CDG
+- Délibération emploi non permanent accroissement temporaire d’activité
+- Délibération modification d’heures hebdomadaires contrat Mme Chamberlain
+- Délibération de convention relative à une extension de réseau de télécommunication dans la commune et convention de maîtrise d’ouvrage
+- Délibération renouvellement de la convention relative à l’utilisation du service de fourrière animale
+- Délibération rapport d’activité 2021 de la CCPH
+- Changement de destination pour 2 parcelles de bois
+- Délibération programme de travaux en forêt communale 2023
+- Délibération autorisant l’autorité territoriale à signer la convention cadre emploi et compétences du CDG
+- Délibération sur les questions diverses
+
+
+[Compte-rendu]({{ site.url }}/assets/pdf/CR_conseil_municipal_24_02_2023.pdf)
+
+
 ## Conseil du 28/10/2022
 - Mise à jour du plan communal de sauvegarde
 - Reversement de la taxe d’aménagement communal à la CCPH
